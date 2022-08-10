@@ -6,7 +6,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
               <li class="nav-item" style="">
                 <a class="nav-link active" aria-current="page" href="index.php"style="font-family: 'Slabo 27px', serif;">Home</a>
               </li>
